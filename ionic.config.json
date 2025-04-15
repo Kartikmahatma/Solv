@@ -1,5 +1,8 @@
 {
   "name": "SOLV",
-  "integrations": {},
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
   "type": "angular"
 }
